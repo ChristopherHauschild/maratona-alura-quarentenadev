@@ -1,0 +1,30 @@
+* {
+  font-family: monospace;
+  font-size: 18px;
+  background-color: block;
+  background-color: #111111;
+  color: yellow;
+}
+
+h1, h2 {
+  text-transform: uppercase;
+  padding: 8px;
+}
+
+p {
+  padding: 5px 10px;
+}
+
+.perfil {
+  display: flex;
+  height: auto;
+  width: auto;
+}
+
+img {
+  width: 160px;
+  heigth: 180px;
+  box-shadow: .5px .5px 0.5px 1px white;
+  float: left;
+  margin: 10px;
+}
