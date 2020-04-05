@@ -7,4 +7,4 @@ LITROS COMBUSTÍVEL
 km_l = 12
 horas = 10
 vel = 81
-document.write('Foram necessários '+ (81*10) / 12 + ' litros de combustível')
+document.write('Foram necessários '+ (vel)* (horas / km_l) + ' litros de combustível')
