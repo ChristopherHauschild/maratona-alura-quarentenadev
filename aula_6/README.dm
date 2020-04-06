@@ -1,4 +1,4 @@
-Na sexta aula, foi desenvolvida uma ficha a ser completada conforme informações digitadas pelo usuário.
+Na sexta aula, foi desenvolvida no Codepen uma ficha a ser preenchida conforme informações digitadas pelo usuário.
 
 Para tal, integrou-se HTML, CSS e JavaScript. 
 
