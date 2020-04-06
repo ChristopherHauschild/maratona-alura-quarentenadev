@@ -8,6 +8,6 @@ if(temcondicao){estadodesaude = "Sim"};
 if(temcondicao == false){estadodesaude = "Nao"};
 
 lista.innerHTML =
-  '<li> Data de Nascimento: ${nascimento} </li>
-   <li> Idade: 23 anos </li> <li> Tem condição pré-existente: ${estado de saude} </li>
-   <li> Precisa de acompanhamento médico </li>';
+  `<li> Data de Nascimento: ${nascimento} </li>
+   <li> Idade: 23 anos </li> <li> Tem condição pré-existente: ${estadodesaude} </li>
+   <li> Precisa de acompanhamento médico </li>`
