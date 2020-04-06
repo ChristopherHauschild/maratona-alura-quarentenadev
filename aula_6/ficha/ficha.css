@@ -1,0 +1,12 @@
+  
+* {
+  font-family: monospace;
+  font-size: 18px;
+  color: black;
+}
+
+
+h2 {
+  text-transform: uppercase;
+  text-decoration: underline;
+}
