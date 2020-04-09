@@ -2,7 +2,7 @@ Na terceira aula foi apresentado algumas funcionalidades na plataforma Codepen, 
 
 Após, foram propostos os seguintes exercícios:
 
-obs: realizei alguns ajustes no desafio e exercícios propostos para aumentar a dificuldade dos mesmos e agregar conhecimentos prévios em JavaScript
+obs: realizei alguns ajustes no código do desafio e exercícios propostos para aumentar a dificuldade dos mesmos e agregar conhecimentos prévios em JavaScript
 
 * Consegue fazer o texto abaixo aparecer na tela?
 
