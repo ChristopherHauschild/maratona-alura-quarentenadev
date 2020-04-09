@@ -10,8 +10,8 @@ DESAFIO DO ART
 n = 0;
 
 while(n < 500){
-	n += 1;
-	document.write(n + " - ");
+  document.write(n + '<br>');
+  n += 1; // incrementa de dois em dois
 }
 
 DESAFIO EXTRA
@@ -19,8 +19,8 @@ DESAFIO EXTRA
 n = 0;
 
 while(n < 100){
-	n += 1;
 	if(n % 2 ==0){
-		document.write(n + " - ");
+		document.write(n + '<br>');
 	}
+	n += 1;
 }	
