@@ -2,7 +2,7 @@ Na primeira aula ocorreu a introdução ao curso e apresentação dos professore
 
 Após a apresentação de operações matemáticas e do método alert, foram propostos o seguinte desafio e exercícios:
 
-obs: realizei alguns ajustes no desafio e exercícios propostos para aumentar a dificuldade dos mesmos e agregar conhecimentos prévios em JavaScript
+obs: realizei alguns ajustes no código do desafio e exercícios propostos para aumentar a dificuldade dos mesmos e agregar conhecimentos prévios em JavaScript
 
 Desafio
 Para essa aula, deixamos como desafio você tentar fazer o cálculo de batimentos cárdiacos. Isto é: dada a sua idade, quantas vezes seu coração já bateu?
