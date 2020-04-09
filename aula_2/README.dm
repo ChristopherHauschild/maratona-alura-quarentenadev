@@ -2,7 +2,7 @@ Na segunda aula da maratona, foram introduzidos os metodos document e prompt, ap
 
 Ao final, foram propostos o seguintes desafios:
 
-obs: realizei alguns ajustes no desafio e exercícios propostos para aumentar a dificuldade dos mesmos e agregar conhecimentos prévios em JavaScript
+obs: realizei alguns ajustes no código do desafio e exercícios propostos para aumentar a dificuldade dos mesmos e agregar conhecimentos prévios em JavaScript
 
 *O IMC ou índice de massa corporal, nos ajuda a identificar algumas caracteristicas como obesidade ou desnutrição.
 O IMC é calculado dividindo o peso pela altura elevada ao quadrado. Será que você consegue descobrir qual o seu IMC?
