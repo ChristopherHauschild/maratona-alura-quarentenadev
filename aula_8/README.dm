@@ -17,5 +17,3 @@ Sim o art disse 10 milhões, mas calma lá, vamos exibir todos os números de 1 
 Desafio extra
 Usando o while consegue exibir os números pares de até de 0 até 100? Pode ser usando document.write, alert você escolhe.
 
-Desafio randômico do Paulo
-Consegue descobrir uma outra fórmula de aleatoriedade que seja mais "justa" que a que usamos no exercício?
