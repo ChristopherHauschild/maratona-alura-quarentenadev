@@ -4,7 +4,7 @@ Atividades e projetos desenvolvidos durante a maratona de 10 dias disponibilizad
 
 <hr>
 <p align="center">
-  <img width="900px" src="https://github.com/ChristopherHauschild/maratona-alura-quarentenadev/blob/master/logoA.png?raw=true" />
+  <img width="800px" src="https://github.com/ChristopherHauschild/maratona-alura-quarentenadev/blob/master/logoA.png?raw=true" />
 </p>
 
 ## Linguagens e tecnologias utilizadas: :computer:
