@@ -1,5 +1,23 @@
-A maratona de 10 dias disponibilizada pela Alura conta com um corpo docente de profissionais experientes da área da computação, e promove estudos na programação com JavaScript, além de HTML e CSS.
+# QuarentaDev :warning:
 
-Este projeto oferta ainda discussões todos os dias no Discord, para correções de exercícios, e tem como objetivo construção de um certificado online e o básico de um app de transporte semelhante ao Uber/99 Taxi.
+Atividades e projetos desenvolvidos durante a maratona de 10 dias disponibilizada pela Alura, que conta com um corpo docente de profissionais experientes na área da computação. Este projeto oferta ainda discussões todos os dias no Discord, para correções de exercícios, e tem como objetivo construção de um certificado online e o básico de um app de transporte semelhante ao Uber/99 Taxi.
+
+<hr>
+<p align="center">
+  <img width="900px" src="" />
+</p>
+
+## Linguagens e tecnologias utilizadas: :computer:
+<ul>
+  <li> HTML5 </li>
+  <li> CSS3 </li>
+  <li> JavaScript </li>
+</ul>
+
+## Maiores informações: :pencil:
 
 Link para o Codepen, onde foram desevolvidos os códigos: https://codepen.io/ChristopherHauschild
+
+<hr>
+
+Atividades e projetos desenvolvidos com horas a frente do :computer: por Christopher H. Schott
